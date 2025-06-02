@@ -4,7 +4,7 @@ Student: James Chard - N01685334
 
 # DEPLOYMENT
 
-https://ite-5425-web-2-lab-4-bgp1-4jui14ro5-james-cs-projects-6e4c82b7.vercel.app/
+https://ite-5425-web-2-lab-4-bgp1-jp543uwnb-james-cs-projects-6e4c82b7.vercel.app/dashboard
 
 ## Overview
 
