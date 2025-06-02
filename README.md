@@ -1,18 +1,25 @@
-# ITE-5425 Lab 3 | NextJS Intro
+# ITE-5425 Lab 4 | NextJS Pagination, Search, Data fetching
 
 Student: James Chard - N01685334
 
 ## Overview
 
-- Complete chapters 1-5 of the NextJS dashboard starter tutorial:
-  - Intro
-  - Styles/css (tailwind, css modules)
-  - Fonts & Images ( Image component, font loading)
-  - Layouts, Routing
-  - Navigation (Link component)
+- Complete chapters 6-11 of the NextJS dashboard starter tutorial:
+  - deploy vercel project, database, and make connection
+  - seed database
+  - Different kinds of rendering patterns(server side, partial prerendering, suspense, etc.)
+  - implement dashboard with real database data, and search/pagination for invoices
 
 ## Challenges / learning
 
-- Interesting to see `classnames` library replaced by `cslx`
-- also interesting to see a built-in hook for `usePathName`
--
+- Cool to see the new experimental partial prerendering features
+- Nice to see there's a good package for debouncing now and we dont have to implement it ourselves
+
+## Screenshots
+
+![alt text](screenshots/dashboard.png)
+![alt text](screenshots/deployment.png)
+![alt text](screenshots/neon.png)
+![alt text](screenshots/query.png)
+![alt text](screenshots/seed.png)
+![alt text](screenshots/invoices-pagination.png) ![alt text](screenshots/invoice-search.png)
